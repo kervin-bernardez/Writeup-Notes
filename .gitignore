@@ -1,14 +1,7 @@
-.vscode
-.DS_Store
-*.txt
-*.zip
-*.rule
-*.aspx
-*.war
-*.bak
-*.xls
-*.ps1
-*.exe
-*.py
-*.php
+#exclude all
+*.*
 *_*
+
+#except md and png
+!**/*.md
+!**/*.png
