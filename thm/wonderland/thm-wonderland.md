@@ -30,13 +30,13 @@ r                       [Status: 301, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking index
-![/index.html](Files/wonderland/wonderland1.png)
+![/index.html](wonderland1.png)
 
 checking /img
-![/img](Files/wonderland/wonderland2.png)
+![/img](wonderland2.png)
 
 checking /r
-![/r](Files/wonderland/wonderland3.png)
+![/r](wonderland3.png)
 
 ffuf
 ```
@@ -62,7 +62,7 @@ t                       [Status: 301, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking /r/a/b/b/i/t
-![/r/a/b/b/i/t](Files/wonderland/wonderland4.png)
+![/r/a/b/b/i/t](wonderland4.png)
 
 viewing source
 ```
@@ -175,7 +175,7 @@ drwxr-x---  2 rabbit    rabbit    4096 May 25  2020 rabbit
 drwxr-x---  6 tryhackme tryhackme 4096 May 25  2020 tryhackme
 ```
 
-(exploting via python library hijacking)[]
+[exploiting via python library hijacking](https://rastating.github.io/privilege-escalation-via-python-library-hijacking/)
 
 creating random.py
 ```
@@ -234,7 +234,7 @@ The Mad Hatter will be here soon./bin/echo -n 'Probably by ' && date --date='nex
 <snip>
 ```
 
-(exploting via PATH Variable)[]
+[exploiting via PATH Variable](https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/)
 
 ```
 rabbit@wonderland:/home/rabbit$ cd /tmp
@@ -267,7 +267,7 @@ looking for suspicious file/s
 hatter@wonderland:/home/rabbit$ cd /home/hatter
 
 hatter@wonderland:/home/hatter$ ls -la
-                                                                                                            
+
 total 28                                                                                                           
 drwxr-x--- 3 hatter hatter 4096 May 25  2020 .                                                                     
 drwxr-xr-x 6 root   root   4096 May 25  2020 ..                                                                    
@@ -319,5 +319,3 @@ uid=0(root) gid=1003(hatter) groups=1003(hatter)
 
 <redacted>
 ```
-
-<!-- root:/etc/shadow -->
