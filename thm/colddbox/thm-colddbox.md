@@ -192,7 +192,7 @@ logging in
 
 ### Findings:Looking for attack vectors
 
-The website runs on Wordpress v 5.5.1 with credentials c0ldd:9876543210.
+The website runs on Wordpress v5.5.1 with credentials c0ldd:9876543210.
 Look for WP exploit/s RCE.
 
 
