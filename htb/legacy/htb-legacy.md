@@ -1,6 +1,6 @@
 Target: 10.10.10.4
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```

@@ -1,6 +1,6 @@
 Target: 10.10.10.212
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -23,9 +23,11 @@ Service Info: Host: 127.0.1.1; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 checking bucket.htb
+
 ![](bucket1.png)
 
 viewing source of bucket.htb
+
 ![](bucket2.png)
 
 adding subdomain to /etc/hosts
@@ -52,9 +54,11 @@ $ gobuster dir -u http://s3.bucket.htb -w /usr/share/dirbuster/wordlists/directo
 ```
 
 checking subdomain
+
 ![](bucket3.png)
 
 maybe something interesting
+
 ![](bucket4.png)
 
 using awscli connect to the s3 bucket

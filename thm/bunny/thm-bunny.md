@@ -1,6 +1,6 @@
 Target: 10.10.139.170
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -33,6 +33,7 @@ server-status           [Status: 403, Size: 278, Words: 20, Lines: 10]
 ```
 
 checking /assets
+
 ![/assets](bunny1.png)
 
 viewing the style css
@@ -45,12 +46,15 @@ viewing the style css
 ```
 
 viewing /super_secret_flag
+
 ![/super_secret_flag](bunny2.png)
 
 intercepting in burp
+
 ![burp](bunny3.png)
 
 viewing the redirect
+
 ![redirect](bunny4.png)
 
 decoding Hot_babe.png

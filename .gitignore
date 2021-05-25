@@ -5,3 +5,4 @@
 #except md and png
 !**/*.md
 !**/*.png
+!index.html

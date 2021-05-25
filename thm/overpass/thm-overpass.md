@@ -1,6 +1,6 @@
 Target: 10.10.37.241 
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -31,9 +31,11 @@ css                     [Status: 301, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking index
+
 ![index](overpass1.png)
 
 checking /downloads
+
 ![/downloads](overpass2.png)
 
 viewing source code of overpass.go
@@ -48,9 +50,11 @@ cat overpass.go
 overpass uses rot47 as the encryption method
 
 checking /admin
+
 ![/admin](overpass3.png)
 
 inspecting login js code
+
 ![js](overpass4.png)
 ```
 async function login() {
@@ -84,6 +88,7 @@ Cookies.set("SessionToken",1)
 ```
 
 checking /admin authenticated
+
 ![/admin authenticated](overpass5.png)
 
 making overpass_key

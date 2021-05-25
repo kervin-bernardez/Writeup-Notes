@@ -28,9 +28,11 @@ hidden                  [Status: 301, Size: 315, Words: 20, Lines: 10]
 ```
 
 checking index
+
 ![index](colddbox1.png)
 
 checking /hidden
+
 ![/hidden](colddbox2.png)
 
 wpscan
@@ -188,6 +190,7 @@ Loot:
 c0ldd:9876543210
 
 logging in
+
 ![login](colddbox3.png)
 
 ### Findings:Looking for attack vectors
@@ -209,6 +212,7 @@ $port = 8888;       // CHANGE THIS
 ```
 
 editting php
+
 ![404.php](colddbox4.png)
 
 opening a nc listener on port 9001

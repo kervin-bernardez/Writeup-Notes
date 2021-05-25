@@ -1,6 +1,6 @@
 Target: 10.10.0.110
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -30,12 +30,15 @@ r                       [Status: 301, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking index
+
 ![/index.html](wonderland1.png)
 
 checking /img
+
 ![/img](wonderland2.png)
 
 checking /r
+
 ![/r](wonderland3.png)
 
 ffuf
@@ -62,6 +65,7 @@ t                       [Status: 301, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking /r/a/b/b/i/t
+
 ![/r/a/b/b/i/t](wonderland4.png)
 
 viewing source

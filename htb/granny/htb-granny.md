@@ -1,6 +1,6 @@
 Target: 10.10.10.15
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -26,6 +26,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
 checking index
+
 ![index](granny1.png)
 
 

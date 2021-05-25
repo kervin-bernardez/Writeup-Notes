@@ -1,6 +1,6 @@
 Target: 10.10.202.112
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -38,10 +38,12 @@ PORT   STATE SERVICE VERSION
 ```
 
 checking index
+
 ![index.html](brooklyn99_1.png)
 
 viewing source of index
-![inspect index](brooklyn99_2.png)
+
+![src:index](brooklyn99_2.png)
 
 ftp anonymous login
 ```

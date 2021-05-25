@@ -1,6 +1,6 @@
 Target: 10.10.222.184
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -31,9 +31,11 @@ etc                     [Status: 301, Size: 312, Words: 20, Lines: 10]
 ```
 
 checking /admin
+
 ![/admin](cyborg1.png)
 
 checking /etc
+
 ![/etc](cyborg2.png)
 
 passwd
@@ -63,9 +65,11 @@ http_access allow auth_users
 ```
 
 checking /admin/admin.html
+
 ![/admin/admin.html](cyborg3.png)
 
 downloading archive.tar
+
 ![/admin/archive.tar](cyborg4.png)
 
 extracting archive.tar
@@ -102,6 +106,7 @@ Decode backup repository using borg to find confidential information.
 ## Foothold:
 
 downloading borg
+
 ![borg](cyborg5.png)
 
 extracting backup with borg 

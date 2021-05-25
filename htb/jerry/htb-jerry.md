@@ -1,6 +1,6 @@
 Target: 10.10.10.95
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -29,9 +29,11 @@ manager                 [Status: 302, Size: 0, Words: 1, Lines: 1]
 ```
 
 checking /manager
+
 ![/manager](jerry1.png)
 
 trying default username:password (tomcat:s3cret)
+
 ![login success](jerry2.png)
 
 ### Findings:Looking for attack vectors
@@ -51,6 +53,7 @@ Final size of war file: 1101 bytes
 ```
 
 uploading the payload
+
 ![payload](jerry3.png)
 
 opening a nc listener on port 9001

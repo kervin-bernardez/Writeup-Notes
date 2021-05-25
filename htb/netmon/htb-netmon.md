@@ -1,6 +1,6 @@
 Target: 10.10.10.152
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -47,6 +47,7 @@ Host script results:
 ```
 
 checking 10.10.10.152
+
 ![index](netmon1.png)
 
 ### Findings:Looking for attack vectors
@@ -95,6 +96,7 @@ trying password on a different year
 prtgadmin:PrTg@dmin2019
 
 trying credentials
+
 ![login](netmon2.png)
 
 Metasploit

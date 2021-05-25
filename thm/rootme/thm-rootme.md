@@ -1,6 +1,6 @@
 Target: 10.10.255.188 
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -36,9 +36,11 @@ panel                   [Status: 301, Size: 314, Words: 20, Lines: 10]
 ```
 
 checking index
+
 ![/index.php](rootme1.png)
 
 checking /panel
+
 ![/panel](rootme2.png)
 
 
@@ -64,7 +66,8 @@ opening a nc listener on port 9001
 $ nc -lnvp 9001
 ```
 
-accessing uploaded file in  /uploads
+accessing uploaded file in /uploads
+
 ![/uploads](rootme3.png)
 
 

@@ -1,6 +1,6 @@
 Target: 10.10.10.14
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -33,6 +33,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
 checking 10.10.10.14
+
 ![index](grandpa1.png)
 
 

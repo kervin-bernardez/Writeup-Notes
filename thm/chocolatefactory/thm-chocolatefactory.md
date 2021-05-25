@@ -1,6 +1,6 @@
 Target: 10.10.198.186 
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -137,6 +137,7 @@ PORT    STATE SERVICE    VERSION
 ```
 
 checking index
+
 ![index](chocolatefactory1.png)
 
 checking ftp using anonymous login
@@ -205,6 +206,7 @@ Gain access using found creds.
 ## Foothold:
 
 checking home.php
+
 ![home.php](chocolatefactory2.png)
 
 opening a nc listener on port 9001
@@ -456,5 +458,3 @@ __   __               _               _   _                 _____ _
 
 <redacted>
 ```
-
-<!-- root:$6$.hWj2crD$ch//0HP/gRcEpyW10XktEpu0bDYU51MZaUuzHpb..Han2SFSiNEZgc1/utcnlKbyyhUKb768ouSAd8ITNlWlb/ -->

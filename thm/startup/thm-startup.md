@@ -48,9 +48,11 @@ $ gobuster dir -u http://10.10.88.107 -w /usr/share/dirbuster/wordlists/director
 ```
 
 checking index
+
 ![index](startup1.png)
 
 checking /files
+
 ![/files](startup2.png)
 
 ### Findings:Looking for attack vectors
@@ -90,7 +92,8 @@ opening a nc listener on port 8888
 $ nc -lnvp 8888
 ```
 
-accessing uploaded file in  /files/ftp
+accessing uploaded file in /files/ftp
+
 ![](startup3.png)
 
 

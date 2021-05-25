@@ -1,6 +1,6 @@
 Target:
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -12,11 +12,12 @@ ffuf
 
 ```
 
+checking 
+
 ![index]()
 
 
 
-finding the attack vector
 
 ### Findings:Looking for attack vectors
 
@@ -32,7 +33,7 @@ cve/rce or getting access to www-data/apache/nginx
 
 
 
-last part show www-data/apache/nginx
+
 ```
 id 
 
@@ -52,7 +53,6 @@ www-data/apache/nginx to user (usually finding db creds and connecting to db)
 
 
 
-last part show user
 
 ```
 id 
@@ -61,6 +61,7 @@ id
 
 ```
 cat user.txt
+
 <redacted>
 ```
 
@@ -73,7 +74,7 @@ user to root (enumerate)
 
 
 
-last part show root
+
 ```
 id 
 
@@ -81,5 +82,6 @@ id
 
 ```
 cat root.txt
+
 <redacted>
 ```

@@ -1,6 +1,6 @@
 Target: 10.10.10.79
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -41,9 +41,11 @@ omg                     [Status: 200, Size: 153356, Words: 627, Lines: 620]
 ```
 
 checking 10.10.10.79
+
 ![index](valentine1.png)
 
 checking /dev
+
 ![/dev](valentine2.png)
 
 notes.txt

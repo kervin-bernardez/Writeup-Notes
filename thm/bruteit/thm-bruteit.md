@@ -1,6 +1,6 @@
 Target: 10.10.151.208
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -30,10 +30,12 @@ admin                   [Status: 301, Size: 314, Words: 20, Lines: 10]
 ```
 
 checking /admin
+
 ![/admin](bruteit1.png)
 
-viewing source of  /admin
-![source /admin](bruteit2.png)
+viewing source of /admin
+
+![src:/admin](bruteit2.png)
 
 ### Findings:Looking for attack vectors
 
@@ -54,6 +56,7 @@ Loot:
 admin:xavier
 
 checking /admin/panel
+
 ![login creds](bruteit3.png)
 
 RSA priv_key

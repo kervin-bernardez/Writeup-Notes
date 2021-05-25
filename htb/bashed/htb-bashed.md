@@ -1,6 +1,6 @@
 Target:10.10.10.68
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -31,16 +31,18 @@ server-status           [Status: 403, Size: 299, Words: 22, Lines: 12]
 ```
 
 checking 10.10.10.68
+
 ![index](bashed1.png)
 
 checking single
+
 ![single.html](bashed2.png)
 
 checking /dev
+
 ![/dev](bashed3.png)
 
 ### Findings:Looking for attack vectors
-
 
 Got shell in /dev
 
@@ -48,6 +50,7 @@ Got shell in /dev
 ## Foothold:
 
 checking /dev/phpbash
+
 ![/dev/phpbash](bashed4.png)
 
 ```
@@ -66,6 +69,7 @@ scriptmanager:x:1001:1001:,,,:/home/scriptmanager:/bin/bash
 ```
 
 checking /home/arrexel
+
 ![/home/arrexel](bashed5.png)
 
 ```

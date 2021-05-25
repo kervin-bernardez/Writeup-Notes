@@ -1,6 +1,6 @@
 Target: 10.10.201.13
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -33,9 +33,11 @@ backups                 [Status: 301, Size: 236, Words: 14, Lines: 8]
 ```
 
 checking index
+
 ![index](overpass3_1.png)
 
 checking /backups
+
 ![/backups](overpass3_2.png)
 
 unzipping backup
@@ -65,6 +67,7 @@ gpg: encrypted with 2048-bit RSA key, ID 9E86A1C63FB96335, created 2020-11-08
 ```
 
 viewing the CustomerDetails
+
 ![CustomerDetails](overpass3_3.png)
 
 Loot:

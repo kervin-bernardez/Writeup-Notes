@@ -1,6 +1,6 @@
 Target: 10.10.10.37 
 
-## Enumeration
+## Enumeration:
 
 nmap
 ```
@@ -42,6 +42,7 @@ server-status           [Status: 403, Size: 299, Words: 22, Lines: 12]
 ```
 
 checking 10.10.10.37
+
 ![index](blocky1.png)
 
 wpscan
@@ -168,9 +169,11 @@ Interesting Finding(s):
 ```
 
 checking /wiki
+
 ![/wiki](blocky2.png)
 
 checking /plugins
+
 ![/plugins](blocky3.png)
 
 analyzing jar file
