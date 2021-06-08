@@ -121,7 +121,7 @@ if [[ $(wc -l < $log) -gt 0 ]]; then echo -n > $log; fi
 
 ```
 
-scanloser.sh assign /home/kid/logs/hackers to variable log then prints out its content then is piped to cut to remove the delimeter ' ' starting on the 3rd field onwards then is piped to sort to only see unique (no repeating) then is peiped to a while loop to read as ip and do a nmap scan to the ip.
+scanloser.sh reads /home/kid/logs/hackers as variable log. It then prints out its contents then is piped to cut with the delimeter 'space' and removes everything but the 3rd field onwards. It is then piped to sort to only see unique (no repeating) set of strings then lastly piped to a while loop to do a nmap scan to the ip.
 
 opening another nc listener on port 4242
 ```
