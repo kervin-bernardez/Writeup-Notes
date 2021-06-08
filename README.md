@@ -1,4 +1,4 @@
-# Writeups
+# Simple Writeups
 
 [HackTheBox Profile](https://app.hackthebox.eu/profile/509275)
 
@@ -17,6 +17,7 @@
   - [legacy](htb/legacy/htb-legacy.md)
   - [mirai](htb/mirai/htb-mirai.md)
   - [netmon](htb/netmon/htb-netmon.md)
+  - [popcorn](htb/popcorn/htb-popcorn.md)
   - [shocker](htb/shocker/htb-shocker.md)
   - [valentine](htb/valentine/htb-valentine.md)
 
