@@ -8,6 +8,7 @@
   - [blockycraft](htb/blockycraft/htb-blockycraft.md)
   - [blue](htb/blue/htb-blue.md)
   - [bucket](htb/bucket/htb-bucket.md)
+  - [curling](htb/curling/htb-curling.md)
   - [delivery](htb/delivery/htb-delivery.md)
   - [devel](htb/devel/htb-devel.md)
   - [grandpa](htb/grandpa/htb-grandpa.md)
