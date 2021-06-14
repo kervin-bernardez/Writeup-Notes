@@ -33,6 +33,7 @@
  - [colddbox](thm/colddbox/thm-colddbox.md)
  - [cyborg](thm/cyborg/thm-cyborg.md)
  - [forensics](thm/forensics/thm-forensics.md)
+ - [mustacchio](thm/mustacchio/thm-mustacchio.md)
  - [overpass](thm/overpass/thm-overpass.md)
  - [overpass3](thm/overpass3/thm-overpass3.md)
  - [rootme](thm/rootme/thm-rootme.md)
