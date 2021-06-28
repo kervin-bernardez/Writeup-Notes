@@ -21,6 +21,7 @@
   - [popcorn](htb/popcorn/htb-popcorn.md)
   - [scriptkiddie](htb/scriptkiddie/htb-scriptkiddie.md)
   - [shocker](htb/shocker/htb-shocker.md)
+  - [spectra](htb/spectra/htb-spectra.md)
   - [valentine](htb/valentine/htb-valentine.md)
 
 
