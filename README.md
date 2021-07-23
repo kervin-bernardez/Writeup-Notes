@@ -20,13 +20,13 @@
   - [netmon](htb/netmon/htb-netmon.md)
   - [popcorn](htb/popcorn/htb-popcorn.md)
   - [scriptkiddie](htb/scriptkiddie/htb-scriptkiddie.md)
-  - [sense](htb/spectra/htb-sense.md)
+  - [sense](htb/sense/htb-sense.md)
   - [shocker](htb/shocker/htb-shocker.md)
   - [spectra](htb/spectra/htb-spectra.md)
-  - [tenten](htb/spectra/htb-tenten.md)
-  - [traverxec](htb/spectra/htb-treverxec.md)
+  - [tenten](htb/tenten/htb-tenten.md)
+  - [traverxec](htb/traverxec/htb-traverxec.md)
   - [valentine](htb/valentine/htb-valentine.md)
-  - [writeup](htb/spectra/htb-writeup.md)
+  - [writeup](htb/writeup/htb-writeup.md)
 
 
 [TryHackMe Profile](https://tryhackme.com/p/Curves)
