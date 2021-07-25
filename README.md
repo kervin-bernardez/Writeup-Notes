@@ -2,6 +2,7 @@
 
 [HackTheBox Profile](https://app.hackthebox.eu/profile/509275)
 
+  - [armageddon](htb/armageddon/htb-armageddon.md)
   - [bank](htb/bank/htb-bank.md)
   - [bashed](htb/bashed/htb-bashed.md)
   - [beep](htb/beep/htb-beep.md)
