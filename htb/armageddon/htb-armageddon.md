@@ -6,7 +6,6 @@ nmap
 ```
 sudo nmap -sC -sV 10.10.10.233              
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-24 01:11 PDT
 Nmap scan report for 10.10.10.233
 Host is up (0.070s latency).
 Not shown: 998 closed ports
@@ -46,8 +45,7 @@ checking 10.10.10.233
 
 ### Findings:Looking for attack vectors
 
-
-Search for exploits on running services.
+Search for Drupal exploits.
 
 
 ## Foothold:

@@ -64,7 +64,7 @@ logging in with found username `rohit` and default password `pfsense`
 
 ### Findings:Looking for attack vectors
 
-Search for exploits for pfsense and its version.
+Search for pfsense 2.1 exploits.
 
 
 ## Foothold:

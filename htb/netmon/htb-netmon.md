@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.152
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-15 01:36 PDT
 Nmap scan report for 10.10.10.152
 Host is up (0.095s latency).
 Not shown: 995 closed ports
@@ -41,9 +40,6 @@ Host script results:
 | smb2-security-mode: 
 |   2.02: 
 |_    Message signing enabled but not required
-| smb2-time: 
-|   date: 2021-05-15T08:36:54
-|_  start_date: 2021-05-15T08:35:04
 ```
 
 checking 10.10.10.152

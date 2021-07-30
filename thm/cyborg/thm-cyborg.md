@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.222.184
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-05 14:25 +08
 Nmap scan report for 10.10.222.184
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.10 (Ubuntu Linux; protocol 2.0)

@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.3
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-14 23:29 PDT
 Nmap scan report for 10.10.10.3
 Host is up (0.058s latency).
 Not shown: 996 filtered ports

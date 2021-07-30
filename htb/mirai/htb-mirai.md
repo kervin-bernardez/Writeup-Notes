@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.48              
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-19 21:11 PDT
 Nmap scan report for 10.10.10.48
 Host is up (0.52s latency).
 Not shown: 997 closed ports
@@ -42,9 +41,7 @@ checking /admin
 
 ![/admin](mirai2.png)
 
-
 ### Findings:Looking for attack vectors
-
 
 [Mirai botnet attack blog](https://www.csoonline.com/article/3144200/expect-more-iot-botnet-attacks-mirai-source-code-now-freely-available.html)
 

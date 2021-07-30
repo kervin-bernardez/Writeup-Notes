@@ -6,8 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.7 -Pn
 
-Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times will be slower.
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-16 02:52 PDT
 Nmap scan report for 10.10.10.7
 Host is up (0.11s latency).
 Not shown: 988 closed ports
@@ -68,7 +66,7 @@ checking 10.10.10.7
 
 ### Findings:Looking for attack vectors
 
-Search for exploits on outdated running services.
+Search for elastix exploits.
 
 
 ## Foothold:

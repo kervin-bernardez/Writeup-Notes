@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.6
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-02 23:38 PDT
 Nmap scan report for 10.10.10.6
 Host is up (0.13s latency).
 Not shown: 998 closed ports
@@ -50,7 +49,6 @@ registering an account
 testing upload
 
 ![upload](popcorn5.png)
-
 
 ### Findings:Looking for attack vectors
 

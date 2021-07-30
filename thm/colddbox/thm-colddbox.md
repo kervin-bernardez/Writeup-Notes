@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.176.228
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-18 01:50 PDT
 Nmap scan report for 10.10.176.228
 Host is up (0.41s latency).
 Not shown: 999 closed ports

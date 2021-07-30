@@ -43,7 +43,6 @@ checking /panel
 
 ![/panel](rootme2.png)
 
-
 ### Findings:Looking for attack vectors
 
 In /panel files can be uploaded with restrictions and in /uploads uploaded files can be accessed.

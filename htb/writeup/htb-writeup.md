@@ -40,7 +40,8 @@ checking src:/writeup
 
 ### Findings:Looking for attack vectors
 
-Search for exploits for cms made simpl and its version.
+Search for cms made simple exploits.
+
 
 ## Foothold:
 

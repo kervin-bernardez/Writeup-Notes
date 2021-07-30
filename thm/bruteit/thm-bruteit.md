@@ -6,8 +6,6 @@ nmap
 ```
 $  sudo nmap -sC -sV 10.10.151.208 -p- -v
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-04 22:41 +08
-<snip>
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 

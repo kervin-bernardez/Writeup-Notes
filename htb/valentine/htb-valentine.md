@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.79
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-24 02:33 PDT
 Nmap scan report for 10.10.10.79
 Host is up (0.037s latency).
 Not shown: 997 closed ports
@@ -121,11 +120,9 @@ PORT    STATE SERVICE
 |_      http://cvedetails.com/cve/2014-0160/
 ```
 
-
 ### Findings:Looking for attack vectors
 
-
-Exploit vulnerable https hearthbeat vulnerability.
+Exploit vulnerable https using hearthbeat vulnerability.
 
 
 ## Foothold:

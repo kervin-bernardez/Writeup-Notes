@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.5            
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-15 04:28 PDT
 Nmap scan report for 10.10.10.5
 Host is up (0.084s latency).
 Not shown: 998 filtered ports
@@ -25,7 +24,6 @@ PORT   STATE SERVICE VERSION
 |_http-title: IIS7
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
-
 
 ### Findings:Looking for attack vectors
 

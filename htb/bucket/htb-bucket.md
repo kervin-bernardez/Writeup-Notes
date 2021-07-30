@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.212
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-25 14:53 PDT
 Nmap scan report for bucket.htb (10.10.10.212)
 Host is up (0.032s latency).
 Not shown: 998 closed ports

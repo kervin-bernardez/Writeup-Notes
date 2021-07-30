@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.4
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-15 03:53 PDT
 Nmap scan report for 10.10.10.4
 Host is up (0.091s latency).
 Not shown: 997 filtered ports
@@ -90,7 +89,6 @@ Looking up status of 10.10.10.4
         MAC Address = 00-50-56-B9-FF-3D
 <snip>
 ```
-
 
 ### Findings:Looking for attack vectors
 

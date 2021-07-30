@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.150        
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-04 00:07 PDT
 Nmap scan report for 10.10.10.150
 Host is up (0.22s latency).
 Not shown: 998 closed ports
@@ -78,7 +77,6 @@ Curling2018!
 testing credentials in /administrator (Floris:Curling2018!)
 
 ![login](curling5.png)
-
 
 ### Findings:Looking for attack vectors
 

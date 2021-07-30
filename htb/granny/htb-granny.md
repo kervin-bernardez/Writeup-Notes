@@ -6,7 +6,6 @@ nmap
 ```
 $ sudo nmap -sC -sV 10.10.10.15  
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-17 10:16 PDT
 Nmap scan report for 10.10.10.15
 Host is up (0.034s latency).
 Not shown: 999 filtered ports
@@ -29,10 +28,9 @@ checking index
 
 ![index](granny1.png)
 
-
 ### Findings:Looking for attack vectors
 
-Exploit outdated services.
+Exploit outdated Microsoft-IIS/6.0.
 
 
 ## Foothold:

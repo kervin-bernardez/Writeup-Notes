@@ -27,7 +27,7 @@ checking 10.10.10.165
 
 ### Findings:Looking for attack vectors
 
-Search for exploits for nostromo and its version.
+Search for nostromo exploits.
 
 
 ## Foothold:
