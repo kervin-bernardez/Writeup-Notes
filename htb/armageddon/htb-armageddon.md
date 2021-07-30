@@ -41,6 +41,7 @@ profiles                [Status: 301, Size: 237, Words: 14, Lines: 8]
 ```
 
 checking 10.10.10.233
+
 ![index](armageddon1.png)
 
 ### Findings:Looking for attack vectors
