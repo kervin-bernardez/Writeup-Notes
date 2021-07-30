@@ -75,7 +75,7 @@ activate the account using the link
 
 Loot:
 
-maildeliverer:Youve_G0t_Mail!
+`maildeliverer:Youve_G0t_Mail!`
 
 
 ## Lateral Movement:
@@ -216,7 +216,7 @@ Restore.Sub.#1...: Salt:0 Amplifier:12937-12938 Iteration:1008-1024
 
 Loot:
 
-root:PleaseSubscribe!21
+`root:PleaseSubscribe!21`
 
 su to root
 ```

@@ -91,7 +91,7 @@ viewing source
 
 Loot:
 
-alice:HowDothTheLittleCrocodileImproveHisShiningTail
+`alice:HowDothTheLittleCrocodileImproveHisShiningTail`
 
 
 ### Findings:Looking for attack vectors
@@ -289,7 +289,7 @@ WhyIsARavenLikeAWritingDesk?
 
 Loot:
 
-hatter:WhyIsARavenLikeAWritingDesk?
+`hatter:WhyIsARavenLikeAWritingDesk?`
 
 
 ## Priv Escalations:

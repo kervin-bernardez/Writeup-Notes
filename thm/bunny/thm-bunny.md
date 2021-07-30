@@ -164,7 +164,7 @@ $ hydra -l ftpuser -P pass.txt 10.10.139.170 ftp -V
 
 Loot:
 
-ftpuser:5iez1wGXKfPKQ
+`ftpuser:5iez1wGXKfPKQ`
 
 accessing ftp
 ```
@@ -222,7 +222,7 @@ Password: DSpDiM1wAEwid
 
 Loot:
 
-eli:DSpDiM1wAEwid
+`eli:DSpDiM1wAEwid`
 
 ```
 $ ssh eli@10.10.139.170              
@@ -280,7 +280,7 @@ Yours sincerely
 
 Loot:
 
-gwendoline:MniVCQVhQHUNI
+`gwendoline:MniVCQVhQHUNI`
 
 
 ```

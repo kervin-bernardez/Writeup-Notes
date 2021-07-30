@@ -164,7 +164,7 @@ heartbleedbelievethehype
 
 Loot:
 
-passphrase:heartbleedbelievethehype
+`passphrase:heartbleedbelievethehype`
 
 ```
 $ ssh hype@10.10.10.79 -i hype_key

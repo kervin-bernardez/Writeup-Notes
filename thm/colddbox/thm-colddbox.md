@@ -187,7 +187,7 @@ Trying c0ldd / franklin Time: 00:03:28 <                                  > (122
 
 Loot:
 
-c0ldd:9876543210
+`c0ldd:9876543210`
 
 logging in
 

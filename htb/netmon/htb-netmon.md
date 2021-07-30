@@ -89,7 +89,7 @@ $ less "PRTG Configuration.old.bak"
 
 Loot:
 
-prtgadmin:PrTg@dmin2018
+`prtgadmin:PrTg@dmin2018`
 
 trying password on a different year
 

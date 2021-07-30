@@ -72,11 +72,11 @@ viewing the CustomerDetails
 
 Loot:
 
-paradox:ShibesAreGreat123	
+`paradox:ShibesAreGreat123`
 
-0day:OllieIsTheBestDog	
+`0day:OllieIsTheBestDog`
 
-muirlandoracle:A11D0gsAreAw3s0me	
+`muirlandoracle:A11D0gsAreAw3s0me`
 
 trying found creds in ftp
 ```

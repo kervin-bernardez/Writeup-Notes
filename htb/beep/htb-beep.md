@@ -104,9 +104,9 @@ AMPMGRPASS=jEhdIekWmdjE
 
 Loot:
 
-asteriskuser:jEhdIekWmdjE
+`asteriskuser:jEhdIekWmdjE`
 
-admin:jEhdIekWmdjE
+`admin:jEhdIekWmdjE`
 
 testing for password reuse
 ```

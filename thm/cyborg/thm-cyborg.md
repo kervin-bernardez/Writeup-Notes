@@ -52,7 +52,7 @@ squidward        (?)
 
 Loot:
 
-music_archive:squidward
+`music_archive:squidward`
 
 squid.conf
 ```
@@ -159,7 +159,7 @@ alex:S3cretP@s3
 
 Loot:
 
-alex:S3cretP@s3
+`alex:S3cretP@s3`
 
 ```
 $ ssh alex@10.10.222.184

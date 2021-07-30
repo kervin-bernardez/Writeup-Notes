@@ -196,7 +196,7 @@ $6$CZJnCPeQWp9/jpNx$khGlFdICJnr8R3JC/jTR2r7DrbFLp8zq8469d3c0.zuKN4se61FObwWGxcHZ
 
 Loot:
 
-charlie:cn7824
+`charlie:cn7824`
 
 ### Findings:Looking for attack vectors
 
