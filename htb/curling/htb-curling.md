@@ -52,7 +52,7 @@ viewing source of index
 
 ![src:index](curling2.png)
 
-checking secrets
+checking secret.txt
 ```
 $ curl http://10.10.10.150/secret.txt
 

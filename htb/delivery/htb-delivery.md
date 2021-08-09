@@ -36,13 +36,6 @@ adding subdomain to /etc/hosts
 10.10.10.222    delivery.htb helpdesk.delivery.htb 
 ```
 
-### Findings:Looking for attack vectors
-
-[Hacking through helpdesk blog post](https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
-
-
-## Foothold:
-
 visiting the subdomain
 
 ![](delivery3.png)
@@ -76,8 +69,12 @@ Loot:
 
 `maildeliverer:Youve_G0t_Mail!`
 
+### Findings:Looking for attack vectors
 
-## Lateral Movement:
+Login using found credentials.
+
+
+## Foothold:
 
 ssh to the machine
 ```
