@@ -21,7 +21,6 @@ checking
 
 ### Findings:Looking for attack vectors
 
-
 essay of thought process
 
 
