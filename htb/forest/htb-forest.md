@@ -101,7 +101,7 @@ user:[santi] rid:[0x480]
 
 enumerating with ldapsearch
 ```
-$ ldapsearch -h 10.10.10.161 -p 389 -x -b "dc=htb,dc=local" 
+$ ldapsearch -H 10.10.10.161 -p 389 -x -b "dc=htb,dc=local" 
 
 <snip>
 # Sebastien Caron, Exchange Administrators, Information Technology, Employees, 
@@ -424,15 +424,15 @@ $ bloodhound
 
 uploading data
 
-![upload]()
+![upload](forest1.png)
 
 checking shortest path to high value targets
 
-![sp to hvt]()
+![sp to hvt](forest2.png)
 
 checking principal with dcsync rights
 
-![dcsync]()
+![dcsync](forest3.png)
 
 dsync explain
 
